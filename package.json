@@ -1,0 +1,22 @@
+{
+  "name": "wtwish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@cypress/webpack-preprocessor": "^6.0.2",
+    "babel-loader": "^9.2.1",
+    "chai-string": "^1.5.0",
+    "chai-subset": "^1.6.0",
+    "cypress": "^13.16.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
